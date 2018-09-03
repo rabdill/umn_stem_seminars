@@ -36,6 +36,15 @@ entries = [
     "url": "https://www.ima.umn.edu/seminar/dsseminar"
   },
   {
+    "title": "Colloquia",
+    "dept": "Computer Science &amp; Engineering",
+    "topics": "",
+    "frequency": "weekly on Monday",
+    "time": "11:15&ndash;12:15",
+    "location": "3-180 Keller Hall",
+    "url": "https://www.cs.umn.edu/activity/talks/colloquia"
+  },
+  {
     "title": "Cancer Center Seminar Series",
     "dept": "Masonic Cancer Center",
     "topics": "",
@@ -43,6 +52,42 @@ entries = [
     "time": "9&ndash;10 a.m.",
     "location": "1-125 CCRB",
     "url": "https://www.cancer.umn.edu/education-training/cancer-center-seminar-series"
+  },
+  {
+    "title": "Seminars and Awards",
+    "dept": "Medicinal Chemistry",
+    "topics": "",
+    "frequency": "weekly on Tuesday",
+    "time": "3:30&ndash;5 p.m.",
+    "location": "1-451 Moos Tower",
+    "url": "https://www.pharmacy.umn.edu/departments/medicinal-chemistry/seminars-and-awards"
+  },
+  {
+    "title": "Colloquium Series",
+    "dept": "Center for Neurobehavioral Development",
+    "topics": "",
+    "frequency": "monthly on Tuesday",
+    "time": "4 p.m.",
+    "location": "717 Delaware Building, Room 330",
+    "url": "https://cnbd.umn.edu/cnbd-events"
+  },
+  {
+    "title": "Lecture Series",
+    "dept": "Lillehei Heart Institute",
+    "topics": "",
+    "frequency": "weekly on Wednesday",
+    "time": "12&ndash;1 p.m.",
+    "location": "1-125 CCRB",
+    "url": "https://www.heart.umn.edu/news-events/lillehei-heart-institute-lecture-series"
+  },
+  {
+    "title": "Weekly Research Conference",
+    "dept": "Stem Cell Institute",
+    "topics": "",
+    "frequency": "weekly on Wednesday",
+    "time": "4 p.m.",
+    "location": "1-110 MTRF",
+    "url": "https://www.heart.umn.edu/news-events/lillehei-heart-institute-lecture-series"
   },
   {
     "title": "Seminars",
@@ -72,15 +117,6 @@ entries = [
     "url": "https://neurosci.umn.edu/education/seminars"
   },
   {
-    "title": "Seminars and Awards",
-    "dept": "Medicinal Chemistry",
-    "topics": "",
-    "frequency": "weekly on Tuesday",
-    "time": "3:30&ndash;5 p.m.",
-    "location": "1-451 Moos Tower",
-    "url": "https://www.pharmacy.umn.edu/departments/medicinal-chemistry/seminars-and-awards"
-  },
-  {
     "title": "Seminars",
     "dept": "Precision Medicine and Health Consortium",
     "topics": "",
@@ -88,41 +124,5 @@ entries = [
     "time": "",
     "location": "",
     "url": "http://pmhc.umn.edu/upcoming-seminar-symposiums"
-  },
-  {
-    "title": "Colloquia",
-    "dept": "Computer Science &amp; Engineering",
-    "topics": "",
-    "frequency": "weekly on Monday",
-    "time": "11:15&ndash;12:15",
-    "location": "3-180 Keller Hall",
-    "url": "https://www.cs.umn.edu/activity/talks/colloquia"
-  },
-  {
-    "title": "Lecture Series",
-    "dept": "Lillehei Heart Institute",
-    "topics": "",
-    "frequency": "weekly on Wednesday",
-    "time": "12&ndash;1 p.m.",
-    "location": "1-125 CCRB",
-    "url": "https://www.heart.umn.edu/news-events/lillehei-heart-institute-lecture-series"
-  },
-  {
-    "title": "Weekly Research Conference",
-    "dept": "Stem Cell Institute",
-    "topics": "",
-    "frequency": "weekly on Wednesday",
-    "time": "4 p.m.",
-    "location": "1-110 MTRF",
-    "url": "https://www.heart.umn.edu/news-events/lillehei-heart-institute-lecture-series"
-  },
-  {
-    "title": "Colloquium Series",
-    "dept": "Center for Neurobehavioral Development",
-    "topics": "",
-    "frequency": "monthly on Tuesday",
-    "time": "4 p.m.",
-    "location": "717 Delaware Building, Room 330",
-    "url": "https://cnbd.umn.edu/cnbd-events"
   },
 ]
