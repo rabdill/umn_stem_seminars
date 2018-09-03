@@ -1,0 +1,3 @@
+# UMN STEM Seminar Calendars
+
+Lists of available talks open to the public. To contribute, either email rabdill@umn.edu or, even better, submit a pull request to this repository—just add an entry to "data.js" with the calendar's information in it. If you've never submitted one before, there are guides online all over the place. You can also submit one directly from your browser: Go to the <a href="https://github.com/rabdill/umn_stem_seminars/blob/master/data.js">"data.js" file</a>, click the "Edit this file" pencil icon in the top-right corner of the text box, scroll to the very bottom of the page and hit the green button to fork the repository and open a PR. Thanks for your help.
