@@ -9,6 +9,15 @@ entries = [
     "url": "https://cbs.umn.edu/research/blink"
   },
   {
+    "title": "Weekly Seminars List",
+    "dept": "Chemical Biology Initiative",
+    "topics": "Compilation of seminars in medicine and life sciences across the university",
+    "frequency": "multiple",
+    "time": "multiple",
+    "location": "multiple",
+    "url": "http://chembio.umn.edu/weekly-seminars-list"
+  },
+  {
     "title": "Seminar Series",
     "dept": "Microbiology, Immunology and Cancer Biology (MICaB)",
     "topics": "",
